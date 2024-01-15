@@ -21,7 +21,6 @@ main {
 
 /* Styling the navigation bar */
 .navbar {
-    background-color: rgb(244, 237, 223); /* Updated background color */
     padding: 10px 20px;
     display: flex;
     justify-content: space-between; /* Space between title and menu */
