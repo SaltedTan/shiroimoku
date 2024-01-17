@@ -224,6 +224,10 @@ footer {
     opacity: 0.7; /* Slightly reduce opacity on hover/focus */
 }
 
+.acknowledgement {
+    text-align: justify;
+}
+
 /* Responsive adjustments for mobile devices */
 @media screen and (max-width: 600px) {
     .navbar {
